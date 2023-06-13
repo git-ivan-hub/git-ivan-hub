@@ -1,8 +1,4 @@
-# <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 20">
-  <circle fill="#FF4136" cx="10" cy="10" r="10"/>
-  <text fill="#FFF" font-family="Verdana" font-size="11" x="25" y="15">🔥📚 Ivan Justine Rayala </text>
-</svg> 
-
+# 🔥📚 Ivan Justine Rayala
 **`Bachelor of Science in Appplied Mathematics (Mathematical Modelling/ Intermediate Python Skill/ Data Analysis)`**
 
 I am a graduate with a Bachelor of Science in Applied Mathematics degree aspiring to be a Data Analyst. With a passion for active learning and problem-solving and possess analytical abilities. I constantly seek opportunities to expand my knowledge and stay updated with the latest data analysis methodologies. With a solid foundation in mathematical principles, I dissect complex problems and formulate innovative solutions. I am eager to contribute my skills and drive meaningful insights as a Data Analyst in a dynamic organization.
