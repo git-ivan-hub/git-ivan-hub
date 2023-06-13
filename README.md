@@ -1,7 +1,7 @@
 # <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 20">
   <circle fill="#FF4136" cx="10" cy="10" r="10"/>
   <text fill="#FFF" font-family="Verdana" font-size="11" x="25" y="15">🔥📚 </text>
-</svg> #Ivan Justine Rayala
+</svg> Ivan Justine Rayala
 
 **`Bachelor of Science in Appplied Mathematics (Mathematical Modelling/ Intermediate Python Skill/ Data Analysis)`**
 
