@@ -5,6 +5,14 @@ I am a graduate with a Bachelor of Science in Applied Mathematics degree aspirin
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+  My journey to acquiring the essential knowledge and skills, and the proper guidance of my suitable mentor, has been a defining aspect of my quest to become a data analyst.
+I possess an analytical mindset and a natural aptitude for problem-solving, complemented by attaining a Bachelor of Science degree in Applied Mathematics. Recognizing Python's significance as the most sought-after programming language in this field, I obtained an intermediate skill for it and have knowledge in relevant data cleaning, processing, and modeling packages. I developed a predictive model for Non-alcoholic Steatohepatitis (NASH) fatty liver disease to demonstrate my abilities. This project showcased my expertise in applying advanced statistical techniques to real-world scenarios. Continuing my pursuit of growth, I completed a data analytics internship course and received a certificate of completion. Additionally, I also added Excel to my skill set by taking it as an elective course, as I was aware of its value in data analysis and visualization. These experiences have given me a strong foundation as a Data Analyst and the abilities and know-how I need to succeed in this industry.
+
 <!--
 **git-ivan-hub/git-ivan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
