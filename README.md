@@ -6,6 +6,7 @@ I am a graduate with a Bachelor of Science in Applied Mathematics degree aspirin
 ### Languages and Tools:
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
 #
 
 <details>
