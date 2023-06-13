@@ -1,6 +1,7 @@
 I am a graduate with a Bachelor of Science in Applied Mathematics degree aspiring to be a Data Analyst. With a passion for active learning and problem-solving and possess analytical abilities. I constantly seek opportunities to expand my knowledge and stay updated with the latest data analysis methodologies. With a solid foundation in mathematical principles, I dissect complex problems and formulate innovative solutions. I am eager to contribute my skills and drive meaningful insights as a Data Analyst in a dynamic organization.
 
-
+### Languages and Tools:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <!--
 **git-ivan-hub/git-ivan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
