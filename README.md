@@ -1,4 +1,4 @@
-### Hi there 👋
+###I am a Bachelor of Science in Applied Mathematics aspiring to be a Data Analyst. With a passion for active learning and problem-solving and possess analytical abilities. I constantly seek opportunities to expand my knowledge and stay updated with the latest data analysis methodologies. With a solid foundation in mathematical principles, I dissect complex problems and formulate innovative solutions. I am eager to contribute my skills and drive meaningful insights as a Data Analyst in a dynamic organization.
 
 <!--
 **git-ivan-hub/git-ivan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
