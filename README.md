@@ -4,9 +4,11 @@
 I am a graduate with a Bachelor of Science in Applied Mathematics degree aspiring to be a Data Analyst. With a passion for active learning and problem-solving and possess analytical abilities. I constantly seek opportunities to expand my knowledge and stay updated with the latest data analysis methodologies. With a solid foundation in mathematical principles, I dissect complex problems and formulate innovative solutions. I am eager to contribute my skills and drive meaningful insights as a Data Analyst in a dynamic organization.
 
 ### Languages and Tools:
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg/>" 
+<img align="left" alt="Jupyter Lab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/jupyterlab.svg/>" 
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pycharm.svg/>" 
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg/>" 
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg/>](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg/>)" 
 #
 
 <details>
