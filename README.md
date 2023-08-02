@@ -1,7 +1,7 @@
 # 🔥📚 Ivan Rayala
 **`Bachelor of Science in Appplied Mathematics (Mathematical Modelling/ Intermediate Python Skill/ Data Analysis)`**
 
-I am a graduate with a Bachelor of Science in Applied Mathematics degree aspiring to be a Data Analyst. With a passion for active learning and problem-solving and possess analytical abilities. I constantly seek opportunities to expand my knowledge and stay updated with the latest data analysis methodologies. With a solid foundation in mathematical principles, I dissect complex problems and formulate innovative solutions. I am eager to contribute my skills and drive meaningful insights as a Data Analyst in a dynamic organization.
+I am a graduate with a Bachelor of Science in Applied Mathematics degree aspiring to be a Software Engineer. With a passion for continuous learning and creative problem-solving, I possess strong analytical abilities. I am constantly seeking opportunities to broaden my knowledge and keep abreast of the latest methodologies in software engineering. With a solid foundation in mathematical principles, I excel at breaking down complex problems and devising innovative solutions. I am enthusiastic about leveraging my skills to contribute to a dynamic organization as a Software Engineer and drive impactful results."
 
 ---
 
