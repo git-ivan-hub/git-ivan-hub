@@ -16,7 +16,7 @@ I am a graduate with a Bachelor of Science in Applied Mathematics degree aspirin
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://blogs.sas.com/content/sasdummy/files/2019/01/gitlogo.png" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://www.iconarchive.com/download/i73026/cornmanthe3rd/plex/Other-html-5.ico"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://icons.iconarchive.com/icons/martz90/hex/512/html-5-icon.png"/>
 
 <br />
 
