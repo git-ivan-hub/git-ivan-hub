@@ -12,7 +12,7 @@ I am a graduate with a Bachelor of Science in Applied Mathematics degree aspirin
 <img align="left" alt="Jupyter Lab" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://storage.caktusgroup.com/media/blog-images/logo.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
-<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" />
+<img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://blogs.sas.com/content/sasdummy/files/2019/01/gitlogo.png" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />
