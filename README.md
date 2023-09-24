@@ -8,7 +8,7 @@ I am a graduate with a Bachelor of Science in Applied Mathematics degree aspirin
 ### Languages and Tools:
 
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2111/2111612.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Jupyter Lab" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://www.qbssoftware.de/wp-content/uploads/2022/07/JetBrains-PyCharm.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" />
